@@ -2,9 +2,9 @@ TMK Keyboard Firmware Core Library
 ==================================
 This is a keyboard firmware library with some useful features for Atmel AVR and Cortex-M.
 
-This [tmk_core_infinity](https://github.com/AndrewBDavis/tmk_core_infinity) repo is outdated and is specifically for compiling TMK firmware for the Input Club Infinity keyboard. It include specific CibiOS and CiboOS-Contrib versions that were found to work with Kairyu's TMK code. It is not reccomened as a stand-alone replacement for [tmk_keyboard](https://github.com/tmk/tmk_keyboard).
+This [tmk_core_infinity](https://github.com/AndrewBDavis/tmk_core_infinity) repo is outdated and is specifically for compiling TMK firmware for the Input Club Infinity keyboard. It includes CibiOS and CiboOS-Contrib versions that were found to work with Kairyu's TMK code. It is not recommended as a stand-alone replacement for [tmk_keyboard](https://github.com/tmk/tmk_keyboard).
 
-It is recommended that you replace the /tmk_keyboard/keyboard/infinity_chibios folder/ with mine one from <https://github.com/AndrewBDavis/keyboard/tree/master/infinity_chibios> and follow the instructions to compile the .bin file there.  
+It is also recommended that you use my [/keyboard/infinity_chibios/](https://github.com/AndrewBDavis/keyboard/tree/master/infinity_chibios) files and follow the instructions to compile the .bin file there.  
 
 Source code is available here: <https://github.com/tmk/tmk_keyboard/>
 
